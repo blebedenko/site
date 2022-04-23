@@ -1,0 +1,17 @@
+name: "my-website"
+navbar:
+  title: "My Website"
+  type: inverse
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "About"
+      icon: fa-info
+      href: about.html
+    - text: "Projects"
+      icon: fa-cubes
+      href: projects.html
+  right:
+    - icon: fa-question fa-lg
+      href: https://example.com
