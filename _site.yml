@@ -11,11 +11,18 @@ navbar:
       href: about.html
     - text: "Projects"
       icon: fa-cubes
-      href: projects.html
+      menu:
+        - text: "Queues"
+          href: queues.html
+        - text: "CDF + ME"
+          href: MECDF.html
+        - text: "AUC + ME"
+          href: MEAUC.html
     - text: "CV"
       icon: fa-user-circle
       href: cv.html
     - text: "Contact"
+      href: contact.html
       icon: fa-envelope
   right:
     - icon: fa-question fa-lg
