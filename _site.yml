@@ -26,8 +26,10 @@ navbar:
       icon: fa-envelope
   right:
     - icon: fa-linkedin
-      href: https://example.com
+      href: https://linkedin.com
     - icon: fa-envelope
-      href: mailto::rgwrgrwg@rgrwsgher.com
-    - icon: fa-question fa-lg
+      menu:
+        - text: "Email me"
+          href: mailto:lebedenko@gmail.com
+    - icon: fa-question
       href: https://example.com
