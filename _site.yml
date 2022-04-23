@@ -25,5 +25,9 @@ navbar:
       href: contact.html
       icon: fa-envelope
   right:
+    - icon: fa-linkedin
+      href: https://example.com
+    - icon: fa-envelope
+      href: mailto::rgwrgrwg@rgrwsgher.com
     - icon: fa-question fa-lg
       href: https://example.com
