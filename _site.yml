@@ -12,6 +12,11 @@ navbar:
     - text: "Projects"
       icon: fa-cubes
       href: projects.html
+    - text: "CV"
+      icon: fa-user-circle
+      href: cv.html
+    - text: "Contact"
+      icon: fa-envelope
   right:
     - icon: fa-question fa-lg
       href: https://example.com

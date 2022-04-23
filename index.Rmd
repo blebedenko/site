@@ -3,3 +3,5 @@ title: "Boris Lebedenko"
 ---
 
 Welcome to my homepage. 
+
+I am a statistician.
